@@ -1,0 +1,92 @@
+{
+  "docstore": {
+    "dfb08655-f20e-4587-8b6e-f3aa6b66689d": {
+      "user_id": "user_lavan",
+      "data": "User asked for their name to be extracted from the conversation",
+      "text_lemmatized": "user ask extract conversation",
+      "hash": "0ffc1b921de6d56653c8440e74b667e3",
+      "created_at": "2026-06-04T03:59:03.207532+00:00",
+      "updated_at": "2026-06-04T03:59:03.207532+00:00",
+      "attributed_to": "user"
+    },
+    "4596e502-e6f4-433a-a5f0-1c95979cd333": {
+      "user_id": "user_lavan",
+      "data": "Assistant confirmed the user's name as Lavan and asked for birth date information",
+      "text_lemmatized": "assistant confirm user lavan ask birth date information",
+      "hash": "8e7417dc9e8e9e2bf6a7ec794264e573",
+      "created_at": "2026-06-04T03:59:03.214905+00:00",
+      "updated_at": "2026-06-04T03:59:03.214905+00:00",
+      "attributed_to": "assistant"
+    },
+    "cba27cb4-8d88-45c7-b716-0c3f04064ed0": {
+      "user_id": "user_lavan",
+      "data": "User confirmed their age as 19 and assistant calculated it to be 21 years old based on birth date information",
+      "text_lemmatized": "user confirm age 19 assistant calculate 21 year old base birth date information",
+      "hash": "2abaecb202cb6d19ada7ae115a973c63",
+      "created_at": "2026-06-04T04:05:12.350548+00:00",
+      "updated_at": "2026-06-04T04:05:12.350548+00:00"
+    },
+    "6a396ff4-33b1-45bf-8596-bbddf822fcc3": {
+      "user_id": "user_lavan",
+      "data": "Assistant asked user for their name to be extracted from the conversation",
+      "text_lemmatized": "assistant ask user extract conversation",
+      "hash": "5f0d1cfba477d9ab8453af085d5de46e",
+      "created_at": "2026-06-04T04:05:12.368281+00:00",
+      "updated_at": "2026-06-04T04:05:12.368281+00:00"
+    },
+    "9bf09504-fbed-485d-bb83-528a14badfb0": {
+      "user_id": "user_lavan",
+      "data": "User introduced themselves as Lavan",
+      "text_lemmatized": "user introduce lavan",
+      "hash": "8e33160267f931f92d3525c1637e0879",
+      "created_at": "2026-06-04T04:05:12.374775+00:00",
+      "updated_at": "2026-06-04T04:05:12.374775+00:00"
+    },
+    "73bf22ef-310b-4c78-bfb5-3022c482fd47": {
+      "user_id": "user_lavan",
+      "data": "Assistant confirmed user's name as Lavan and asked for birth date information",
+      "text_lemmatized": "assistant confirm user lavan ask birth date information",
+      "hash": "931ee0cabac5b963ff0f3b98c69a9c50",
+      "created_at": "2026-06-04T04:05:12.383204+00:00",
+      "updated_at": "2026-06-04T04:05:12.383204+00:00"
+    },
+    "9606eba0-2727-4477-a36e-a7131a2d5f7a": {
+      "user_id": "user_lavan",
+      "data": "User introduced themselves as Lavan and confirmed their age to be 19 years old.",
+      "text_lemmatized": "user introduce lavan confirm age 19 year old",
+      "hash": "1b21b282e1e1ce978439e35909582c5b",
+      "created_at": "2026-06-04T04:13:19.092591+00:00",
+      "updated_at": "2026-06-04T04:13:19.092591+00:00",
+      "attributed_to": "user"
+    },
+    "322c617a-a390-4e5e-a676-2817f0649d71": {
+      "user_id": "user_lavan",
+      "data": "Assistant calculated user's age to be 21 years old based on birth date information (September 30, 2004).",
+      "text_lemmatized": "assistant calculate user age 21 year old base birth date information september 30 2004",
+      "hash": "dbd45745ceb5f5bebf3372e9f120ec83",
+      "created_at": "2026-06-04T04:13:19.103811+00:00",
+      "updated_at": "2026-06-04T04:13:19.103811+00:00",
+      "attributed_to": "assistant"
+    },
+    "e5e316a3-ee00-45a8-b1b7-a75ee4433400": {
+      "user_id": "user_lavan",
+      "data": "User asked assistant to extract their name from the conversation.",
+      "text_lemmatized": "user ask assistant extract conversation",
+      "hash": "623a07c3568d2332c32674a3918d736f",
+      "created_at": "2026-06-04T04:13:19.111828+00:00",
+      "updated_at": "2026-06-04T04:13:19.111828+00:00",
+      "attributed_to": "user"
+    }
+  },
+  "index_to_id": {
+    "0": "dfb08655-f20e-4587-8b6e-f3aa6b66689d",
+    "1": "4596e502-e6f4-433a-a5f0-1c95979cd333",
+    "2": "cba27cb4-8d88-45c7-b716-0c3f04064ed0",
+    "3": "6a396ff4-33b1-45bf-8596-bbddf822fcc3",
+    "4": "9bf09504-fbed-485d-bb83-528a14badfb0",
+    "5": "73bf22ef-310b-4c78-bfb5-3022c482fd47",
+    "6": "9606eba0-2727-4477-a36e-a7131a2d5f7a",
+    "7": "322c617a-a390-4e5e-a676-2817f0649d71",
+    "8": "e5e316a3-ee00-45a8-b1b7-a75ee4433400"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "docstore": {
+    "17c3ff62-6498-43ab-8578-0ecf14a6d199": {
+      "data": "Lavan",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "4596e502-e6f4-433a-a5f0-1c95979cd333"
+      ],
+      "user_id": "user_lavan"
+    },
+    "a6a3c0e1-e93d-44b3-a016-abe8f0d21e85": {
+      "data": "birth date",
+      "entity_type": "COMPOUND",
+      "linked_memory_ids": [
+        "322c617a-a390-4e5e-a676-2817f0649d71",
+        "4596e502-e6f4-433a-a5f0-1c95979cd333",
+        "73bf22ef-310b-4c78-bfb5-3022c482fd47"
+      ],
+      "user_id": "user_lavan"
+    },
+    "191d9a07-3e8b-4707-8ae2-ed6666fbd8d5": {
+      "data": "birth date",
+      "entity_type": "COMPOUND",
+      "linked_memory_ids": [
+        "73bf22ef-310b-4c78-bfb5-3022c482fd47",
+        "cba27cb4-8d88-45c7-b716-0c3f04064ed0"
+      ],
+      "user_id": "user_lavan"
+    },
+    "bff41cf5-46b1-4c79-9bf7-53a76f00120c": {
+      "data": "Lavan",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "73bf22ef-310b-4c78-bfb5-3022c482fd47",
+        "9bf09504-fbed-485d-bb83-528a14badfb0"
+      ],
+      "user_id": "user_lavan"
+    },
+    "3f1395a7-756d-411b-ba33-5c241e1d507e": {
+      "data": "Lavan",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "9606eba0-2727-4477-a36e-a7131a2d5f7a"
+      ],
+      "user_id": "user_lavan"
+    },
+    "62317bc6-9de8-40b2-923e-ced8d8c3cbde": {
+      "data": "birth date",
+      "entity_type": "COMPOUND",
+      "linked_memory_ids": [
+        "322c617a-a390-4e5e-a676-2817f0649d71"
+      ],
+      "user_id": "user_lavan"
+    }
+  },
+  "index_to_id": {
+    "0": "17c3ff62-6498-43ab-8578-0ecf14a6d199",
+    "1": "a6a3c0e1-e93d-44b3-a016-abe8f0d21e85",
+    "2": "191d9a07-3e8b-4707-8ae2-ed6666fbd8d5",
+    "3": "bff41cf5-46b1-4c79-9bf7-53a76f00120c",
+    "4": "3f1395a7-756d-411b-ba33-5c241e1d507e",
+    "5": "62317bc6-9de8-40b2-923e-ced8d8c3cbde"
+  }
+}

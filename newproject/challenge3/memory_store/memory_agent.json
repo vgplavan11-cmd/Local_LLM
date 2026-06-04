@@ -1,0 +1,44 @@
+{
+  "docstore": {
+    "9308ffc0-6573-4af7-bd34-a88b0924afd4": {
+      "user_id": "user_lavan",
+      "data": "User named themselves as Lavan",
+      "text_lemmatized": "user name lavan",
+      "hash": "526ca90e894afa89233431dc37a969bc",
+      "created_at": "2026-06-04T03:36:05.746088+00:00",
+      "updated_at": "2026-06-04T03:36:05.746088+00:00",
+      "attributed_to": "user"
+    },
+    "f77b8653-082a-46b6-8437-1ed8483c0aa5": {
+      "user_id": "user_lavan",
+      "data": "Assistant responded with a greeting and asked about the user's day",
+      "text_lemmatized": "assistant respond greeting ask user day",
+      "hash": "fa397a010defeee015f7d77b4a7877e9",
+      "created_at": "2026-06-04T03:36:05.752363+00:00",
+      "updated_at": "2026-06-04T03:36:05.752363+00:00",
+      "attributed_to": "assistant"
+    },
+    "af8f5032-1c8b-4cf8-a8a2-7f9b0db4995a": {
+      "user_id": "user_lavan",
+      "data": "User asked about their name",
+      "text_lemmatized": "user ask",
+      "hash": "538d766400ccc96d224034d1bc4dc5dd",
+      "created_at": "2026-06-04T03:48:10.666888+00:00",
+      "updated_at": "2026-06-04T03:48:10.666888+00:00"
+    },
+    "76aa130b-a85a-4d43-82f4-9bf18317a6ba": {
+      "user_id": "user_lavan",
+      "data": "Assistant recalled the user's name as Lavan and confirmed it was correct",
+      "text_lemmatized": "assistant recall user lavan confirm correct",
+      "hash": "9a5e747cd23cc9be3523ff433f7c8fc1",
+      "created_at": "2026-06-04T03:48:10.677071+00:00",
+      "updated_at": "2026-06-04T03:48:10.677071+00:00"
+    }
+  },
+  "index_to_id": {
+    "0": "9308ffc0-6573-4af7-bd34-a88b0924afd4",
+    "1": "f77b8653-082a-46b6-8437-1ed8483c0aa5",
+    "2": "af8f5032-1c8b-4cf8-a8a2-7f9b0db4995a",
+    "3": "76aa130b-a85a-4d43-82f4-9bf18317a6ba"
+  }
+}

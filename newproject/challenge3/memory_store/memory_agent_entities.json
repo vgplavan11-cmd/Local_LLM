@@ -1,0 +1,24 @@
+{
+  "docstore": {
+    "4e751148-281e-425c-a2f9-e0459f6e538a": {
+      "data": "Lavan",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "9308ffc0-6573-4af7-bd34-a88b0924afd4"
+      ],
+      "user_id": "user_lavan"
+    },
+    "ca828256-dc28-4200-90a7-22af5f1dd5f1": {
+      "data": "Lavan",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "76aa130b-a85a-4d43-82f4-9bf18317a6ba"
+      ],
+      "user_id": "user_lavan"
+    }
+  },
+  "index_to_id": {
+    "0": "4e751148-281e-425c-a2f9-e0459f6e538a",
+    "1": "ca828256-dc28-4200-90a7-22af5f1dd5f1"
+  }
+}
